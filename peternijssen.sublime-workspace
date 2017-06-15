@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 352.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/masha/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/masha/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/var/www/html/speedy/blog/app/Http/Controllers/Controller.php",
+		"/var/www/html/speedy/blog/database/migrations/2017_05_24_135821_create_post_table.php",
+		"/var/www/html/speedy/blog/database/factories/ModelFactory.php",
+		"/var/www/html/speedy/blog/app/Listeners/Email.php",
+		"/var/www/html/speedy/blog/app/Events/UserHasRegistered.php",
+		"/var/www/html/speedy/blog/app/Providers/EventServiceProvider.php",
+		"/var/www/html/speedy/blog/app/Http/routes.php",
+		"/var/www/html/speedy/blog/app/Http/Controllers/Auth/AuthController.php",
+		"/var/www/html/speedy/blog/app/Http/Middleware/Authenticate.php",
+		"/var/www/html/speedy/blog/app/Http/Middleware/VerifyCsrfToken.php",
+		"/var/www/html/speedy/blog/app/Http/Middleware/EncryptCookies.php",
+		"/var/www/html/speedy/blog/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/var/www/html/speedy/blog/app/Jobs/Job.php",
+		"/var/www/html/speedy/blog/app/Console/Commands/MakeViewCommand.php",
+		"/var/www/html/speedy/blog/app/Console/Kernel.php",
+		"/var/www/html/speedy/blog/resources/views/hello.blade.php",
+		"/var/www/html/speedy/blog/resources/views/hello/blade/php.blade.php",
+		"/var/www/html/speedy/blog/app/Console/Commands/MakeViewCommad.php",
+		"/var/www/html/speedy/blog/app/Console/Commands/ShowGreeting.php",
+		"/var/www/html/speedy/blog/app/Http/Kernel.php",
+		"/var/www/html/speedy/blog/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/speedy/blog/app/User.php",
+		"/var/www/html/speedy/blog/config/database.php",
+		"/var/www/html/speedy/blog/.env",
+		"/var/www/html/speedy/blog/tests/ExampleTest.php",
+		"/var/www/html/speedy/blog/resources/assets/less/app.less",
+		"/var/www/html/speedy/blog/resources/views/stats.blade.php",
+		"/var/www/html/speedy/blog/app/Stats.php",
+		"/var/www/html/speedy/blog/resources/views/other.blade.php",
+		"/var/www/html/speedy/blog/resources/views/welcome.blade.php",
+		"/var/www/html/speedy/blog/views/stats.blade.php",
+		"/views/stats.blade.php",
+		"/view/stats.blade.php",
+		"/var/www/html/speedy/blog/fdgfdg.txt",
+		"/var/www/html/speedy/blog/config/app.php",
+		"/var/www/html/speedy/blog/routes/web.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 139.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Console",
+			"routers.php",
+			"}}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "peternijssen.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"datab",
+				"config/database.php"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
